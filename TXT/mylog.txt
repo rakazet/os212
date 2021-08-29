@@ -1,3 +1,4 @@
-# REV06 Wed 07 Jul 2021 20:15:07 WIB
-# https://osp4diss.vlsm.org/ETC/logCodes.txt
-# ZCZC WEEK# MINUTES LogCode Description
+# START Sun 30 Aug 2021 12:36:30 WIB
+# LOG FORMAT: ZCZC WEEK# MINUTES LogCode Description
+
+ZCZC W00 60 Finishing W00 Assignments
