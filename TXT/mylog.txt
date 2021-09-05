@@ -1,5 +1,7 @@
 # START Sun 30 Aug 2021 12:36:30 WIB
 # LOG FORMAT: ZCZC WEEK# MINUTES LogCode Description
 
-ZCZC W00 60 Finishing W00 Assignments
-ZCZC W00 60 Finished SDA Checkpoint 1
+ZCZC W00 60 L00 Finished W00 Assignment #1 - #4
+ZCZC W00 60 L01 Finished SDA Checkpoint 1
+ZCZC W00 45 L02 Zoom related
+ZCZC W00 120 L03 Finished W00 Assignment #5
