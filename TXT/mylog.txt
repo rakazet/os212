@@ -5,4 +5,7 @@ ZCZC W00 60 L00 Finished W00 Assignment #1 - #4
 ZCZC W00 60 L01 Finished SDA Checkpoint 1
 ZCZC W00 45 L02 Zoom related
 ZCZC W00 120 L03 Finished W00 Assignment #5
-ZCZC W01 120 L04 Finished W01 Assignment #1 - #3
+ZCZC W01 100 L04 Zoom related
+ZCZC W01 120 L05 Finished W01 Assignment #1 - #3
+ZCZC W01 180 L06 Finished W01 Assignment #4 - #7
+
