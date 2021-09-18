@@ -17,5 +17,15 @@ have to code. There is no better way to learn programming other than programming
 5. [Sed Tutorial - Tutorialspoint](https://www.tutorialspoint.com/sed/sed_overview.htm)<br>
 A guide for beginners to learn how to use Sed. It helps beginners (like me) in understanding
 the cryptic syntax of Sed. 
-
+6. [C Programming Language](https://www.geeksforgeeks.org/c-programming-language/)<br>
+Complete C language guide explaining from the basics to the advanced. I personally think this website is
+awesome to learn C. The pages are clean to look, and each explanation has its own examples making
+it easier for us to learn.
+7. [C Programming Exercises, Practice, Solution](https://www.w3resource.com/c-programming-exercises/)<br>
+The website provides C exercises complete with their solutions. An editor is provided so you'll only have to
+write a code and then it's automatically checked whether you got the correct output. The page looks
+dated but it has hundreds of exercises. Stonks.
+8. [Learn-c](https://www.learn-c.org)<br>
+Another website that provides C exercises and their solutions. The website looks more modern than the previous
+one, but it has less exercises. Still, I think it's enough to learn the basics of C. 
 

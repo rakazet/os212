@@ -16,6 +16,7 @@ ZCZC W01 45 L16 Finished W01 Assignment #6
 ZCZC W01 15 L17 Finished W01 Assignment #7
 ZCZC W01 30 L18 Finished W01 Assignment #8
 ZCZC W01 90 L19 Finished W01 Assignment #9
+ZCZC W02 90 L12 Learned about W02's demos. I got a lot of new knowledge about C language.
 
 
 
