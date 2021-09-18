@@ -6,7 +6,7 @@ ZCZC W00 60 L70 Finished SDA Checkpoint 1
 ZCZC W00 45 L02 Zoom related
 ZCZC W00 120 L15 Finished W00 Assignment #5
 ZCZC W01 100 L02 Zoom related
-ZCZC W01 300 L73 Played Valorant 
+ZCZC W01 300 L73 Played Valorant
 ZCZC W01 20 L11 Finished W01 Assignment #1
 ZCZC W01 20 L12 Finished W01 Assignment #2
 ZCZC W01 20 L13 Finished W01 Assignment #3
@@ -17,6 +17,11 @@ ZCZC W01 15 L17 Finished W01 Assignment #7
 ZCZC W01 30 L18 Finished W01 Assignment #8
 ZCZC W01 90 L19 Finished W01 Assignment #9
 ZCZC W02 90 L12 Learned about W02's demos. I got a lot of new knowledge about C language.
+ZCZC W02 5 L14 Generated a GnuPG Key Pair
+ZCZC W02 5 L15 Learned how to list all GnuPG Keys
+ZCZC W02 5 L16 Imported OS public key
+ZCZC W02 10 L18 Imported my public key to my repo
+ZCZC W02 15 L19 Updated my bookmark links 
 
 
 
