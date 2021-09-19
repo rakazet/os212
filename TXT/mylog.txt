@@ -22,6 +22,11 @@ ZCZC W02 5 L15 Learned how to list all GnuPG Keys
 ZCZC W02 5 L16 Imported OS public key
 ZCZC W02 10 L18 Imported my public key to my repo
 ZCZC W02 15 L19 Updated my bookmark links 
+ZCZC W02 15 L20 Reviewed my peer LINKS
+ZCZC W02 30 L09 Finished asignment #11-#13
+ZCZC W02 45 L11 Read CH16 and CH17 Powerpoints
+ZCZC W02 120 L13 Watched Cyber Security Introduction Part 1 and 2
+ZCZC W02 60 L70 Studied Alin
 
 
 
