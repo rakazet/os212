@@ -22,9 +22,8 @@ Complete C language guide explaining from the basics to the advanced. I personal
 awesome to learn C. The pages are clean to look, and each explanation has its own examples making
 it easier for us to learn.
 7. [C Programming Exercises, Practice, Solution](https://www.w3resource.com/c-programming-exercises/)<br>
-The website provides C exercises complete with their solutions. An editor is provided so you'll only have to
-write a code and then it's automatically checked whether you got the correct output. The page looks
-dated but it has hundreds of exercises. Stonks.
+The website provides C exercises complete with their solutions. An editor is provided so you can check
+whether you got the correct output. The page looks dated but it has hundreds of exercises.
 8. [Learn-c](https://www.learn-c.org)<br>
 Another website that provides C exercises and their solutions. The website looks more modern than the previous
 one, but it has less exercises. Still, I think it's enough to learn the basics of C. 
