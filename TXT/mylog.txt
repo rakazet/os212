@@ -27,6 +27,6 @@ ZCZC W02 30 L09 Finished asignment #11-#13
 ZCZC W02 45 L11 Read CH16 and CH17 Powerpoints
 ZCZC W02 120 L13 Watched Cyber Security Introduction Part 1 and 2
 ZCZC W02 60 L70 Studied Alin
-
-
-
+ZCZC W03 60 L11 Read OSC10 Chapter 13, 14, and 15 slides
+ZCZC W03 60 L12 Tried W03 Demos
+ZCZC W03 30 L13 Tried previous Mid Term Problems
