@@ -30,3 +30,9 @@ ZCZC W02 60 L70 Studied Alin
 ZCZC W03 60 L11 Read OSC10 Chapter 13, 14, and 15 slides
 ZCZC W03 60 L12 Tried W03 Demos
 ZCZC W03 30 L13 Tried previous Mid Term Problems
+ZCZC W03 5 L14 Checked my .bash_aliases
+ZCZC W03 60 L15 Created an extra virtual disk
+ZCZC W03 15 L19 Submitted my Week03 Assignment
+ZCZC W03 15 L16 Updated my bookmark links
+ZCZC W03 15 L17 Reviewed my peer links
+ZCZC W03 10 L18 Updated my log

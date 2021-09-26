@@ -27,4 +27,9 @@ whether you got the correct output. The page looks dated but it has hundreds of 
 8. [Learn-c](https://www.learn-c.org)<br>
 Another website that provides C exercises and their solutions. The website looks more modern than the previous
 one, but it has less exercises. Still, I think it's enough to learn the basics of C. 
-
+9. [FUSE Doc](https://www.kernel.org/doc/html/latest/filesystems/fuse.html#what-is-fuse)<br>
+Documentation for FUSE. 
+10. [Understanding mount as a concept in the OS](https://unix.stackexchange.com/questions/3247/understanding-mount-as-a-concept-in-the-os)<br> 
+Explains the basic about mount as a concept in the Operating System. 
+11. [Why do we need to mount on linux](https://unix.stackexchange.com/questions/178077/why-do-we-need-to-mount-on-linux)<br>
+Explains why we need to mount on Linux.
