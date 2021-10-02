@@ -36,3 +36,6 @@ ZCZC W03 15 L19 Submitted my Week03 Assignment
 ZCZC W03 15 L16 Updated my bookmark links
 ZCZC W03 15 L17 Reviewed my peer links
 ZCZC W03 10 L18 Updated my log
+ZCZC W04 60 L11 Read OSC10 Chapter 9
+ZCZC W04 60 L12 Tried W04 Demos
+ZCZC W04 60 L13 Tried previous midterm problems
