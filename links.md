@@ -41,3 +41,6 @@ Explains why we need to mount on Linux.<br>
 ### [Little Endian vs Big Endian](https://www.section.io/engineering-education/what-is-little-endian-and-big-endian/)<br>
 Explains the differences between little endian vs big endian, and why little endian is 
 preferred over big endian despite being harder to read (by humans).<br>
+## Week 05
+### [Virtual Memory in OS](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
+Explains the basics of Virtual Memory.<br> 
