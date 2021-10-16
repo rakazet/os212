@@ -44,3 +44,9 @@ preferred over big endian despite being harder to read (by humans).<br>
 ## Week 05
 ### [Virtual Memory in OS](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
 Explains the basics of Virtual Memory.<br> 
+## Week 06
+### [Operating System processes](https://www.studytonight.com/operating-system/operating-system-processes)<br>
+Basic explanation of processes in OS.<br>
+### [Threads and Concurrency](https://applied-programming.github.io/Operating-Systems-Notes/3-Threads-and-Concurrency/#threads-and-concurrency)<br>
+Detailed explanation of Threads and Concurrency. Several mechanisms related to them are explained. The page also explains about deadlocks,
+a situation where two or more competing threads are waiting on each other to complete, but none of them ever do.<br>

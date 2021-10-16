@@ -53,3 +53,11 @@ ZCZC W05 15 L17 Reviewed my peer links
 ZCZC W05 60 L14 Done assignment 4
 ZCZC W05 30 L18 Updated my log
 ZCZC W05 5 L19 Submitted W05 Assignment
+ZCZC W06 60 L11 Read OSC10 chapter 3 and 4
+ZCZC W06 30 L12 Tried demos
+ZCZC W06 30 L13 Tried previous midterm problems
+ZCZC W06 15 L14 Finished assignment #4
+ZCZC W06 15 L15 Updated my links
+ZCZC W06 15 L17 Reviewed my peer links
+ZCZC W06 15 L18 Updated mylog.txt
+ZCZC W05 5 L19 Submitted W06 Assignment
