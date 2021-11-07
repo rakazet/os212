@@ -50,3 +50,8 @@ Basic explanation of processes in OS.<br>
 ### [Threads and Concurrency](https://applied-programming.github.io/Operating-Systems-Notes/3-Threads-and-Concurrency/#threads-and-concurrency)<br>
 Detailed explanation of Threads and Concurrency. Several mechanisms related to them are explained. The page also explains about deadlocks,
 a situation where two or more competing threads are waiting on each other to complete, but none of them ever do.<br>
+## Week 07
+### [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)<br>
+Basic explanation of Process Synchronization. The site provides more detailed explanation on the following sections.<br>
+### [OS Process Synhcronization Introduction](https://www.javatpoint.com/os-process-synchronization-introduction)<br>
+Another introduction to Process Synchronization. The following parts differ from the previous site I linked.<br>
