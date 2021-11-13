@@ -55,3 +55,6 @@ a situation where two or more competing threads are waiting on each other to com
 Basic explanation of Process Synchronization. The site provides more detailed explanation on the following sections.<br>
 ### [OS Process Synhcronization Introduction](https://www.javatpoint.com/os-process-synchronization-introduction)<br>
 Another introduction to Process Synchronization. The following parts differ from the previous site I linked.<br>
+## Week 08
+### [LFS Explained](https://www.linuxfromscratch.org)<br>
+Linux From Scratch right from the source!<br>
