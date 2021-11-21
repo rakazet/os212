@@ -58,3 +58,8 @@ Another introduction to Process Synchronization. The following parts differ from
 ## Week 08
 ### [LFS Explained](https://www.linuxfromscratch.org)<br>
 Linux From Scratch right from the source!<br>
+## Week 09
+### [Storage Structure in OS](https://www.geeksforgeeks.org/storage-structure-in-operating-systems/)<br>
+Basic explanation of Storage Structure in Operating Systems.<br>
+### [Mass-Storage Structure](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/10_MassStorage.html)<br>
+A detailed explanation of Mass-Storage Structure.<br>

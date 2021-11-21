@@ -77,3 +77,8 @@ ZCZC W08 90 L15 Done Assignment 5
 ZCZC W08 15 L16 Updated my links
 ZCZC W08 30 L18 Reviewed my peer links
 ZCZC W08 30 L19 Updated my logs and submitted W08 assignment
+ZCZC W09 120 L11 Read OSC10 chapter 11
+ZCZC W09 90 L12 Tried Demos
+ZCZC W09 60 L13 Tried previous finalterm problems
+ZCZC W09 60 L15 Updated bookmark links
+ZCZC W09 15 L17 Reviewed peer links
